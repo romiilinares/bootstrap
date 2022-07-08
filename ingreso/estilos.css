@@ -1,0 +1,19 @@
+body{
+    background: rgb(181,36,195);
+background: linear-gradient(90deg, rgba(181,36,195,0.8029411593739058) 25%, rgba(0,212,255,1) 74%);
+margin-top: 70px;
+}
+h2{
+    text-align: center;
+    margin-top: 10px;
+}
+input{
+    background-color: #f9dfdf;
+    border: #000000 solid 3px;
+    border-radius: 10px;
+    height: 40px;
+    margin: 20px;
+}
+#logo{
+    margin-top: 20px;
+}
